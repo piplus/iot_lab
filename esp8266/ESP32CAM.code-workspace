@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "D:/xamp/htdocs/ESP32CAM"
+		},
+		{
+			"name": "esp8266",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
